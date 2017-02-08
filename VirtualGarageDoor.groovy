@@ -16,7 +16,7 @@
  *
  *  Derived From LGK Virtual Garage Door:
  *   - Author: LGKahn kahn-st@lgk.com
- *   - version 2 user defineable timeout before checking if door opened or closed correctly. Raised default to 25 secs. You can reduce it to 15 secs. if you have custom simulated door with < 6 sec wait.
+ *   
  */
  
 definition(
